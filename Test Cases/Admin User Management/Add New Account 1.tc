@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add New Account 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee182bb7-6671-48af-b472-8ffaacc15a0f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>30599922-4d68-4686-99e7-325584390d19</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46dbf779-bd5b-434d-8bf4-bf2f7d1692f0</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
